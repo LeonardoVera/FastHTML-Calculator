@@ -68,7 +68,7 @@ def home():
                 calculatorLayout()
             ),
             htmxlink,
-            cls='bg-gray-200 h-screen flex justify-center items-center'
+            cls='bg-gray-900 h-screen flex justify-center items-center'
         )
     )
 

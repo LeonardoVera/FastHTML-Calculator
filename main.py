@@ -140,6 +140,8 @@ def clickedEqual():
     else:
         result = 'Invalid operator'
             
+
+    result = str(result)
     return result
 
 serve()

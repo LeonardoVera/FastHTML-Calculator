@@ -1,4 +1,4 @@
-# Simple FastHTML calculator app demo
+# Simple FastHTML - Tailwind CSS calculator app demo
 
 <div align="center">
   <img src="preview.gif" alt="demo-preview" width="500">

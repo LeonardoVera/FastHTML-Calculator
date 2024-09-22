@@ -1,4 +1,4 @@
-# Simple FastHTML Calculator app demo
+# Simple FastHTML calculator app demo
 
 <div align="center">
   <img src="preview.gif" alt="demo-preview" width="500">
